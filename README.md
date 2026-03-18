@@ -4,6 +4,7 @@
 <br>📖 LUT University<br/>
 <br>📍 Lahti<br/>
 <br>💻 I pursue smaller projects to stay consistent<br/>
+<br>❤️ I love attending Hackathons<br/>
 
 
 ## 🌐 Socials:
