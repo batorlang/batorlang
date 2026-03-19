@@ -18,7 +18,7 @@
 
 * **[C Logic & Data Structures](https://github.com/batorlang/C-Dump)** Building a robust library of fundamental data structures, including **Doubly Linked Lists** and **Queues**, with a heavy focus on manual memory management and pointer logic.
     * **Status:** Active Development
-    * **Stack:** `C`, `GDB`, `Valgrind`
+    * **Stack:** `C`, `Valgrind`
 
 * **[Personal Portfolio Website]()** A professional showcase of my technical journey and projects. Built with a focus on type safety, modular components, and responsive design.
     * **Status:** In Progress (Private Repo)
