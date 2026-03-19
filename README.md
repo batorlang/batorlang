@@ -2,7 +2,7 @@
 ## Hi, I am Bátor 👋<br>
 <br>🧠 Software and System Engineering Student<br/>
 <br>📖 LUT University<br/>
-<br>📍 Lahti<br/>
+<br>📍 Laht, Finland<br/>
 <br>💻 I pursue smaller projects to stay consistent<br/>
 <br>❤️ I love attending Hackathons<br/>
 
