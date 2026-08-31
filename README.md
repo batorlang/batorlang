@@ -16,9 +16,9 @@
 
 ## 🚀 Current Projects
 
-* **[C Logic & Data Structures](https://github.com/batorlang/C-Dump)** Building a robust library of fundamental data structures, including **Doubly Linked Lists** and **Queues**, with a heavy focus on manual memory management and pointer logic.
+* **[Introduction to Web Development](https://github.com/batorlang/WebDev-Dump)** Building a robust foundation of fundamental web technologies, including **Semantic HTML** and **CSS Styling**, with a heavy focus on DOM manipulation and interactive front-end logic.
     * **Status:** Active Development
-    * **Stack:** `C`, `Valgrind`
+    * **Stack:** `HTML`, `CSS`, `JavaScript`
 
 * **[Personal Portfolio Website]()** A professional showcase of my technical journey and projects. Built with a focus on type safety, modular components, and responsive design.
     * **Status:** In Progress (Private Repo)
